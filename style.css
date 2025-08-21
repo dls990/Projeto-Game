@@ -16,20 +16,53 @@
     }
 
     .container{
-        background-color: aliceblue;
+        background-color: bisque;
+        padding: 100px;
+        border-radius: 15px;
+        box-shadow: 15px 15px #24a4bc;
+        
     }
 
+    h1{
+        font-family: 'Gill Sans', sans-serif;
+      font-size: 36px;
+      margin-bottom: 10px;
+    }
     .botao {
       display: inline-block;
       margin-top: 40px;
-      padding: 15px 30px;
-      background: bisque;
+      padding: 15px;
+      background: aliceblue;
       border-radius: 15px;
-      box-shadow: 5px 5px aliceblue;
+      box-shadow: 5px 5px #24a4bc;
       text-decoration: none;
       color: black;
       font-size: 1.2rem;
       transition: all .2s ease-in-out;
+      margin-right: 20px;
+    }
+
+    .btn{
+        display: flex;
+        justify-content: center;
+        align-items: end;
+        position: absolute;
+        margin-top: 18px;
+        transform: translate(-8vh, 3vh);
+        background: aliceblue;
+        padding: 10px;
+        border-radius: 15px;
+        box-shadow: 5px 5px #24a4bc;
+        text-decoration: none;
+        color: black;
+        font-size: 1.2rem; 
+        margin-right: 20px;
+        transition: all .2s ease-in-out;
+    }
+
+    .btn:hover{
+        background: #24a4bc;
+        
     }
 
     .botao:hover {

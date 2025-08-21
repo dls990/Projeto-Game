@@ -14,6 +14,6 @@
    <a href="desafio3.php" class = "botao">Português</a>
    <a href="desafio5.php" class = "botao">História</a>
 
-    <a href="index.php" class = "botao">Voltar</a></div>
+    <a href="index.php" class = "btn">Voltar</a></div>
 </body>
 </html>
