@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+    body {
+      background: linear-gradient(#24a4bc, #8bd3ec);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      text-align: center;
+      overflow-x: hidden;
+    }
+
+    .container{
+        background-color: aliceblue;
+    }
+
+    .botao {
+      display: inline-block;
+      margin-top: 40px;
+      padding: 15px 30px;
+      background: bisque;
+      border-radius: 15px;
+      box-shadow: 5px 5px aliceblue;
+      text-decoration: none;
+      color: black;
+      font-size: 1.2rem;
+      transition: all .2s ease-in-out;
+    }
+
+    .botao:hover {
+      background: aliceblue;
+      transform: scale(1.05);
+    }
