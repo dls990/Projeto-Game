@@ -29,20 +29,14 @@
         <input type="radio" name="resposta6" value="4"> Que ganhamos presentes
 
         <br>
-        <input type="submit" value="enviar" id="btn" onclick="clicar()" class="botao">
+        <input type="submit" value="enviar" id="btn" class="botao">
 
         </form>
     </div>
 </body>
 
 </html>
-<script>
 
-    function clicar() {
-        const btn = document.getElementById('btn')
-        window.alert('✅ FINALIZADO!!')
-    }
-</script>
 
 <?php
 

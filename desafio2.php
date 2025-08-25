@@ -30,20 +30,13 @@
         <input type="radio" name="resposta" value="4"> 12
 
         <br>
-        <input type="submit" value="enviar" id="btn" onclick="clicar()" class="botao">
+        <input type="submit" value="enviar" id="btn" class="botao">
         </form>
     </div>
 
 </body>
 
 </html>
-<script>
-
-    function clicar() {
-        const btn = document.getElementById('btn')
-        window.alert('✅ FINALIZADO!!')
-    }
-</script>
 
 <?php
 

@@ -29,7 +29,7 @@
         <input type="radio" name="resposta4" value="4"> Bonito
 
         <br>
-        <input type="submit" value="enviar" id="btn" onclick="clicar()" class="botao">
+        <input type="submit" value="enviar" id="btn" class="botao">
         </form>
     </div>
     </h2>
@@ -37,13 +37,7 @@
 
 </html>
 
-<script>
 
-    function clicar() {
-        const btn = document.getElementById('btn')
-        window.alert('✅ FINALIZADO!!')
-    }
-</script>
 <?php
 
 require_once 'Geral.php';
