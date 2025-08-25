@@ -6,6 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>João tem o dobro da idade de Ana. Daqui a 6 anos, a soma das idades dos dois será 54 anos. Qual é a idade de cada um hoje?</h1>
