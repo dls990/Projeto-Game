@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Gênio Quizz</title>
-  <link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
+  <link rel="shortcut icon" href="img/thumbnail_Captura_de_tela_2025-08-21_084213-removebg-preview.png" type="image/x-icon">
   <style>
     * {
     margin: 0;

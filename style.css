@@ -8,7 +8,6 @@
       background: linear-gradient(#24a4bc, #8bd3ec);
       display: flex;
       flex-direction: column;
-      justify-content: center;
       align-items: center;
       min-height: 100vh;
       text-align: center;
@@ -69,3 +68,22 @@
       background: aliceblue;
       transform: scale(1.05);
     }
+    div{
+      padding: 0;
+      margin: 0;
+
+    }
+
+    .sein{
+    padding: 100px;
+    color: white;
+    }
+    .ola{
+      background-color: bisque;
+      width: 250px;
+      height: 280px;
+     border-radius: 20px;
+     align-content: center;
+
+    }
+    
