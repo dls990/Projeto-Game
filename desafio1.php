@@ -12,7 +12,7 @@
 <body>
     <div class="sein">
         <h1>João tem o dobro da idade de Ana. Daqui a 6 anos, a soma das idades dos dois será 54 anos. Qual é a idade de
-            cada um hoje?</h1>
+            cada um hoje?</h1><br><br>
         <form method="post">
             <h2>Selecione a idade</h2>
     </div>
@@ -38,6 +38,7 @@
 </html>
 
 <?php
+session_start();
 
 require_once 'Geral.php';
 

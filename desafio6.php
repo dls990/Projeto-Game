@@ -40,6 +40,10 @@
 
 <?php
 
+
+session_start();
+
+
 require_once 'Geral.php';
 
 $geral = new Geral();

@@ -75,6 +75,10 @@
   <div class="header">
     <h2>Gênio Quizz</h2>
   </div>
-  <a href="materia.php" class="botao">Começar</a>
+  <a href="desafio1.php" class="botao">Começar</a>
 </body>
 </html>
+
+<?php
+session_start();
+?>
