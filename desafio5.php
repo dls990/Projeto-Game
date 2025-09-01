@@ -12,7 +12,7 @@
 <body>
     <div class="sein">
         <h1>Qual a cor do cavalo branco de Napoleão ?</h1>
-        <form method="post">
+        <form method="post" method="post" >
             <h2>Selecione sua resposta</h2>
     </div>
     <div class="ola">

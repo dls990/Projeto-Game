@@ -12,7 +12,7 @@
 <body>
     <div class="sein">
         <h1>Complete a frase: “O sol está ___ no céu.”</h1>
-        <form method="post">
+        <form method="post" method="post" ">
             <h2>Selecione a resposta correta</h2>
     </div>
     <div class="ola">

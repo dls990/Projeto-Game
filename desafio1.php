@@ -17,7 +17,7 @@
             <h2>Selecione a idade</h2>
     </div>
     <div class="ola">
-        <label for="idadeJoao"></label>
+        <label for="idadeJoao" method="post" action="pontuacao.php"></label>
         <input type="radio" name="idade" value="1">14 anos e 28 anos
         <br><br>
         <label for="idadeAna"></label>
